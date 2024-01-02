@@ -1,0 +1,9 @@
+CFF|커피|Y
+CBC|콜드브루커피|Y
+JUC|주스|Y
+ADE|에이드|Y
+PPN|프라푸치노|Y
+BLD|블렌디드|Y
+TEA|티|Y
+DCF|디카페인커피|Y
+TST|테스트|N
